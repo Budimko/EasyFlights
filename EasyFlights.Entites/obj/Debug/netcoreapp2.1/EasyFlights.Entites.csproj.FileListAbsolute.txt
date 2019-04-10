@@ -1,0 +1,9 @@
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Entites\bin\Debug\netcoreapp2.1\EasyFlights.Entites.deps.json
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Entites\bin\Debug\netcoreapp2.1\EasyFlights.Entites.dll
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Entites\bin\Debug\netcoreapp2.1\EasyFlights.Entites.pdb
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Entites\obj\Debug\netcoreapp2.1\EasyFlights.Entites.csprojAssemblyReference.cache
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Entites\obj\Debug\netcoreapp2.1\EasyFlights.Entites.csproj.CoreCompileInputs.cache
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Entites\obj\Debug\netcoreapp2.1\EasyFlights.Entites.AssemblyInfoInputs.cache
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Entites\obj\Debug\netcoreapp2.1\EasyFlights.Entites.AssemblyInfo.cs
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Entites\obj\Debug\netcoreapp2.1\EasyFlights.Entites.dll
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Entites\obj\Debug\netcoreapp2.1\EasyFlights.Entites.pdb

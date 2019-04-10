@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EasyFlights.Contracts\EasyFlights.Contracts.csproj" />
+    <ProjectReference Include="..\EasyFlights.Entites\EasyFlights.Entites.csproj" />
+  </ItemGroup>
+
+</Project>

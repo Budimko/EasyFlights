@@ -1,0 +1,14 @@
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Repository\bin\Debug\netcoreapp2.1\EasyFlights.Repository.deps.json
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Repository\bin\Debug\netcoreapp2.1\EasyFlights.Repository.dll
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Repository\bin\Debug\netcoreapp2.1\EasyFlights.Repository.pdb
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Repository\obj\Debug\netcoreapp2.1\EasyFlights.Repository.csprojAssemblyReference.cache
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Repository\obj\Debug\netcoreapp2.1\EasyFlights.Repository.csproj.CoreCompileInputs.cache
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Repository\obj\Debug\netcoreapp2.1\EasyFlights.Repository.AssemblyInfoInputs.cache
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Repository\obj\Debug\netcoreapp2.1\EasyFlights.Repository.AssemblyInfo.cs
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Repository\obj\Debug\netcoreapp2.1\EasyFlights.Repository.dll
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Repository\obj\Debug\netcoreapp2.1\EasyFlights.Repository.pdb
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Repository\bin\Debug\netcoreapp2.1\EasyFlights.Contracts.dll
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Repository\bin\Debug\netcoreapp2.1\EasyFlights.Entites.dll
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Repository\bin\Debug\netcoreapp2.1\EasyFlights.Contracts.pdb
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Repository\bin\Debug\netcoreapp2.1\EasyFlights.Entites.pdb
+C:\Users\MB\Desktop\ISA\EasyFlights\EasyFlights.Repository\obj\Debug\netcoreapp2.1\EasyFlights.Repository.csproj.CopyComplete
